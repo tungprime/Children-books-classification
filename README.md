@@ -1,4 +1,4 @@
-Choosing good books for children is an rewarding experience for parents. However, it might also be challenging due to the big 
+Choosing good books for children is a rewarding experience for parents. However, it might also be challenging due to the big 
 volume of available books. We are happy when we see the following article in which the author provides a comprehensive list of 
 excellent books for childrens of different ages. 
 
