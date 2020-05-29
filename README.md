@@ -4,8 +4,6 @@ excellent books for childrens of different ages.
 
 https://www.raisesmartkid.com/all-ages/101-best-childrens-books-of-all-time-by-age
 
-Out of curiosity, we wonder whether it is possible to learn new things about children's books as well as toclassify the 
-aged-group of a book given its title and the author'sdescription. As a data scientist, we feel that such an interesting question 
-could definitely be learned from data. More precisely, we use the library NLTK to extract useful information from the article and 
-then use this information to train and evaluate several machine learning models. 
+Out of curiosity, we wonder whether it is possible to learn new things about children's books as well as to classify the 
+aged-group of a book given its title and the author'sdescription. As a data scientist, we feel that such an interesting question could definitely be learned from data. More precisely, we use the library NLTK to extract useful information from the article and then use this information to train and evaluate several machine learning models. 
 
